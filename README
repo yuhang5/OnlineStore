@@ -1,0 +1,4 @@
+● Use Vue-cli3 falsework and JS to create a webpage which is an online store. This online store has the search and classification of goods, add and delete items in the shopping cart.
+● Use Cube-ui API library to decorate the web page. Use Mock to write the interface and return the information.
+● Use axios to realize the authority control. Use Vuex and location store to implement a shopping cart function.
+● Improve  the function and UI. (Optimize homepage loading, transition effect of router transformation, shopping cart animation effect).
